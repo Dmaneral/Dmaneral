@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **https://www.linkedin.com/in/luka-bidzinashvili-a3045326b/**
+- 📫 How to reach me **https://www.linkedin.com/in/luka-bidzinashvili/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
